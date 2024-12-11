@@ -4,6 +4,12 @@
 
 **pingR** is a full-stack real-time messaging application that offers a seamless communication experience. Built with a modern tech stack, it is designed to handle real-time interactions, efficient data flow, and an intuitive user interface. The application is live at [pingR on Render](https://pingr-wji4.onrender.com).
 
+### pingR at a glance !!!
+![](frontend\public\pingR1.gif)
+![](frontend\public\Collage.png)
+
+
+
 ---
 ## Technologies Used
 - **Frontend**: React.js, TailwindCSS, DaisyUI
